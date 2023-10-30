@@ -1,0 +1,17 @@
+{
+    "jobs": [
+        {"id": 1, "title": "web backend dev", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"},
+        {"id": 2, "title": "full stack dev", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"},
+        {"id": 3, "title": "web frontend dev", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"},
+        {"id": 4, "title": "web designer ui/ux", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"},
+        {"id": 5, "title": "android dev", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"},
+        {"id": 6, "title": "ios dev", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"},
+        {"id": 7, "title": "game dev", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"},
+        {"id": 8, "title": "lbc board dev", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"},
+        {"id": 9, "title": "flutter dev", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"},
+        {"id": 10, "title": "java backend dev", "salary": 2500, "description": "lorem ipsum dolor sit amet, consectetur adipiscing"}
+    ],
+    "employees": [
+
+    ]
+}
